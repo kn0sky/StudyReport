@@ -4,3 +4,6 @@
 
 ## 逆向学习
 [逆向学习：扫雷游戏辅助](https://www.kn0sky.com/archives/reverse-winminexp)
+
+## 编程开发
+[C++练习:Docsify侧边栏生成工具](https://www.kn0sky.com/archives/cppprdocsifytool)
